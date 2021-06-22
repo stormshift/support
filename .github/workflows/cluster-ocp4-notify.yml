@@ -12,3 +12,4 @@ jobs:
           with:
              recipients: |
                   cluster/ocp4= @cluster/ocp4-admin
+                  cluster/ocp3= @cluster/ocp3-admin
