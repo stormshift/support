@@ -13,3 +13,5 @@ jobs:
              recipients: |
                   cluster/ocp4= @cluster/ocp4-admin
                   cluster/ocp3= @cluster/ocp3-admin
+                  cluster/ocp5= @cluster/ocp5-admin
+                  cluster/rhacm= @cluster/rhacm-admin
